@@ -1,1 +1,1 @@
-A git project on mastering the tools in git
+A README file for my first project git
